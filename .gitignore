@@ -1,0 +1,10 @@
+# Arquivo de variáveis de ambiente
+.env
+
+# Pasta do ambiente virtual
+.venv/
+__pycache__/
+
+# Arquivos de sistema operacional
+.DS_Store
+Thumbs.db
